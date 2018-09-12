@@ -1,6 +1,6 @@
 # Paragraph-Portfolio
 
-> This is a ruby on rails 5.2 application that allows user to create their portfolio
+> This is a ruby on rails 5.2 application that allows user to create their portfolios
 
 ### Features
 - Real time chat engine for comments
