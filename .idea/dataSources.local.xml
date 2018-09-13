@@ -16,5 +16,11 @@
       <first-sync>true</first-sync>
       <user-name>DevPortfolio</user-name>
     </data-source>
+    <data-source name="postgres@localhost" uuid="d460c667-e750-4088-9680-73ade28ba67d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="POSTGRES" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+    </data-source>
   </component>
 </project>
