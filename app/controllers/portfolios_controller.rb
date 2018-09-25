@@ -1,6 +1,13 @@
 class PortfoliosController < ApplicationController
     def index
         @portfolio_items = Portfolio.all
+        # best practices
+        #@portfolio_items = Portfolio.angular
+        #@portfolio_items = Portfolio.ror
+    end
+
+    def angular
+        @angular_portfolio_items = Portfolio.angular
     end
 
     def new
