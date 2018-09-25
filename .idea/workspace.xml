@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="7da9a98f-4428-4432-bdbb-eb8711d3db74" name="Default Changelist" comment="" />
+=======
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/views/portfolios/index.html.erb" line="1" mnemonic="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7da9a98f-4428-4432-bdbb-eb8711d3db74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/blogs/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/blogs/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+    </list>
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -35,11 +47,18 @@
     <session id="-308636075">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< HEAD
           <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="2" />
+=======
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
@@ -48,7 +67,11 @@
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
+<<<<<<< HEAD
           <entry key="project.opened" value="18" />
+=======
+          <entry key="project.opened" value="16" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -71,13 +94,21 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="erb" value="492" />
+<<<<<<< HEAD
           <entry key="rb" value="918" />
+=======
+          <entry key="rb" value="907" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="RHTML" value="492" />
+<<<<<<< HEAD
           <entry key="Ruby" value="918" />
+=======
+          <entry key="Ruby" value="907" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -90,8 +121,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="23">
               <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+=======
+            <state relative-caret-position="161">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
             </state>
           </provider>
         </entry>
@@ -99,8 +135,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/blogs/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="483">
               <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+=======
+            <state relative-caret-position="385">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
             </state>
           </provider>
         </entry>
@@ -108,8 +149,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="1150">
               <caret line="50" selection-start-line="50" selection-end-line="50" />
+=======
+            <state relative-caret-position="546">
+              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
             </state>
           </provider>
         </entry>
@@ -117,8 +163,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/blogs_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="201">
               <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+=======
+            <state relative-caret-position="362">
+              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
             </state>
           </provider>
         </entry>
@@ -175,7 +226,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -215,12 +269,20 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../RoutingApp" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -371,19 +433,33 @@
       <workItem from="1537462763744" duration="1303000" />
       <workItem from="1537775282973" duration="8744000" />
       <workItem from="1537800278819" duration="1958000" />
+<<<<<<< HEAD
       <workItem from="1537804840063" duration="4070000" />
       <workItem from="1537867811167" duration="59000" />
       <workItem from="1537878005118" duration="199000" />
+=======
+      <workItem from="1537804840063" duration="3430000" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="25053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22622108" />
+=======
+    <option name="totallyTimeSpent" value="24155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22107969" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -504,6 +580,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -522,13 +599,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/views/blogs/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/blogs_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="201">
           <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+=======
+        <state relative-caret-position="362">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+>>>>>>> 8b41e617f79c1a514bc95da83add83ea35b0771d
         </state>
       </provider>
     </entry>
