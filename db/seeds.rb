@@ -39,7 +39,7 @@ puts "5 skills created"
         sed diam nonumy eirmod tempor invidunt 
         ut labore et dolore magna aliquyam erat, 
         sed diam voluptua.", 
-        main_image: "https://via.placeholder.com/600x200" , 
+        main_image: "https://via.placeholder.com/600x400" ,
         thumb_image: "https://via.placeholder.com/350x200"
     )
 end
@@ -52,7 +52,7 @@ end
         sed diam nonumy eirmod tempor invidunt
         ut labore et dolore magna aliquyam erat,
         sed diam voluptua.",
-        main_image: "https://via.placeholder.com/600x200" ,
+        main_image: "https://via.placeholder.com/600x400" ,
         thumb_image: "https://via.placeholder.com/350x200"
     )
 end
